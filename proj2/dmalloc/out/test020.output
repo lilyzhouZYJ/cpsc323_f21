@@ -1,0 +1,2 @@
+Will free 0xe03fb0
+MEMORY BUG: test020.cc:11: invalid free of pointer 0xe03fb0, double free
